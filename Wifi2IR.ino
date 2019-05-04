@@ -955,7 +955,7 @@ pulseIR(580);
 
     break;
 
-    case 'N':                           //command from Key #Vol+ received
+    case 'N':                           //command from Key #ON received
 delayMicroseconds(54700);
 pulseIR(9300);
 delayMicroseconds(4680);
@@ -1075,7 +1075,7 @@ pulseIR(560);
 
     break;
 
-    case 'F':                     //command from Key #Vol- received
+    case 'F':                     //command from Key #OFF received
   delayMicroseconds(59160);
 pulseIR(9340);
 delayMicroseconds(4640);
