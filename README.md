@@ -5,4 +5,4 @@ This project allows to extend an IR control remote funtionalities with an androi
 This is a project for investigation purposes only.
 
 
-!(Wifi.jpg)
+![wificard](Wifi.jpg)
