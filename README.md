@@ -25,3 +25,9 @@ Well the idea it was to use an android App on my cell phone with buttons equival
 
 ![Schematics](nano1.jpg)
 
+The ESP8266 needs a 3.3V power supply; due to the high current needed to work; it is not possible to use the 3.3V output of Arduino NANO.
+In this project I used a 5V power supply and LM317 to reduce the voltage to 3.3 having a common ground between them.
+Due to this power supply difference; the ESP8266 input RX have to be connected to a voltage divider in order to reduce 5V from Arduino to apromately 3V on the ESP side.   
+
+
+
