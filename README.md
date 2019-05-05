@@ -20,3 +20,8 @@ So now I have one TV decoder connected to two ore more TV sets , but ONLY ONE RE
 Anyway ; when I watching TV on the first floor everytime I have to change the TV channel; I have to go down the stairs and change the channel; or just stay watching the same channel , over and over ...
 
 Well the idea it was to use an android App on my cell phone with buttons equivalent to the original decoder remote controller ; send the comunications using Wi Fi , then receive the information in an ESP2866 WiFi and send it to an Arduino NANO connected to an IR LED.
+
+## Schematics
+
+![Schematics](nano1.jpg)
+
